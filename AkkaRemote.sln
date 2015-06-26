@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaRemote.Local", "AkkaRemote.Local\AkkaRemote.Local.csproj", "{08F17236-BF31-43EC-9A6B-948D2D3B6DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaRemote.Shared", "AkkaRemote.Shared\AkkaRemote.Shared.csproj", "{C6CC8277-482F-4D93-80AE-9D7A2C07A3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaRemote.Remote", "AkkaRemote.Remote\AkkaRemote.Remote.csproj", "{4AAC06D5-BD87-4DEA-8467-F8BBE65EA404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F17236-BF31-43EC-9A6B-948D2D3B6DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F17236-BF31-43EC-9A6B-948D2D3B6DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F17236-BF31-43EC-9A6B-948D2D3B6DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F17236-BF31-43EC-9A6B-948D2D3B6DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CC8277-482F-4D93-80AE-9D7A2C07A3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CC8277-482F-4D93-80AE-9D7A2C07A3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CC8277-482F-4D93-80AE-9D7A2C07A3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CC8277-482F-4D93-80AE-9D7A2C07A3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAC06D5-BD87-4DEA-8467-F8BBE65EA404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAC06D5-BD87-4DEA-8467-F8BBE65EA404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAC06D5-BD87-4DEA-8467-F8BBE65EA404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAC06D5-BD87-4DEA-8467-F8BBE65EA404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
